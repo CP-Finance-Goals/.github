@@ -1,12 +1,12 @@
 <div align="center">
   <img src="https://storage.googleapis.com/be-brofin-bucket/brofin-logo.png" alt="Logo Organisasi" width="150">
-  <h1>Your Solution for Financials Problem</h1>
+  <h1>"Smart solution for your financial matters"</h1>
 </div>
 <div>
   <h2>Description</h2>
-  <p>Brofin is user-friendly, easy to understand, and entertaining during a user-monitored process, including features that would support users in managing their finances and staying            motivated.</p>
+  <p>Brofin application gives hope to many who wish to realize these financial goals. The Brother Financial app is designed to address critical economic issues, such as online loans,          currently prevalent in Indonesia, especially for Gen-Z, who find it challenging to manage their finances. Many individuals in this generation struggle to track their spending,            limit their finances, and achieve long-term goals (Goals). This problem is exacerbated by irregular income patterns common among freelancers and young professionals. Our project          is here to create a solution to the issue at hand.</p>
   <h2>Purpose</h2>
-  <p>We created this project mainly for completing bangkit capstone project and solve nowadays people that had a hard time manage their finacials</p>
+  <p>Brofin aims to help Gen Z and Millenials manage finances effectively. Our application is specifically designed to cater to the financial needs of adolescents and adults. By making        budgeting easier and financial management more accessible, we seek to empower young people to attain financial independence, increase economic stability, and reduce financial             stress.</p>
 </div>
 
 ## Our Team Member

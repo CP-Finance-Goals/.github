@@ -11,11 +11,11 @@
 
 ## Our Team Member
 | Name                           | Student Id      | Learning Path      | Contacts          |
-|:-------------------------------|:---------------:|:------------------:|:-----------------:|
-| Ahmad Alfin Nur Hakim          | M318B4KY0192    | Machine Learning   | Linkedin, Github  |
-| Muhammad Azis Saputra          | M319B4KY2758    | Machine Learning   | Linkedin, Github  |
-| Silvi Kusuma Wardhani Gunawan  | M813B4KX4153    | Machine Learning   | Linkedin, Github  |
-| Muhamad Prianda                | C318B4KY2650    | Cloud Computing    | Linkedin, Github  |
-| Mukhlis Gia Tegar              | C318B4KY3149    | Cloud Computing    | Linkedin, Github  |
-| Muhammad Sammy Yudistira       | A133B4KY3082    | Mobile Developer   | Linkedin, Github  |
-| Muhamad Muslih                 | A318B4KY2646    | Mobile Developer   | Linkedin, Github  |
+|:-------------------------------|:---------------:|:------------------:|:-----------------------------------------------------------:|
+| Ahmad Alfin Nur Hakim          | M318B4KY0192    | Machine Learning   | [Linkedin](linkedin.com/in/ahmadalfinnurhakim), [Github](https://github.com/alf1001)              |
+| Muhammad Azis Saputra          | M319B4KY2758    | Machine Learning   | [Linkedin](linkedin.com/in/azisputra), [Github](https://github.com/MuhammadAzisSaputra)  |
+| Silvi Kusuma Wardhani Gunawan  | M813B4KX4153    | Machine Learning   | [Linkedin](linkedin.com/in/silvi-kusuma-wardhani-gunawan), [Github](https://github.com/Silvikusuma04)        |
+| Muhamad Prianda                | C318B4KY2650    | Cloud Computing    | [Linkedin](linkedin.com/in/muhamad-prianda-749191253), [Github](https://github.com/MUHAMADPRIANDA)|
+| Mukhlis Gia Tegar              | C318B4KY3149    | Cloud Computing    | [Linkedin](linkedin.com/in/mukhlis-gia-tegar-435027295), [Github](https://github.com/MkhGT)                |
+| Muhammad Sammy Yudistira       | A133B4KY3082    | Mobile Developer   | Linkedin, [Github](https://github.com/MSammyYudistira)      |
+| Muhamad Muslih                 | A318B4KY2646    | Mobile Developer   | [Linkedin](linkedin.com/in/muhamad-muslih-a92120275), [Github](https://github.com/papermintx)           |

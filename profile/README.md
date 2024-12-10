@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://storage.googleapis.com/be-brofin-bucket/brofin-logo.png" alt="Logo Organisasi" width="200">
+  <img src="https://storage.googleapis.com/be-brofin-bucket/brofin-logo.png" alt="Logo Organisasi" width="150">
   <h1>Your Solution for Financials Problem</h1>
 </div>
 <div>

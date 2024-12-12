@@ -7,11 +7,17 @@
 Brofin application gives hope to many who wish to realize these financial goals. The Brother Financial app is designed to address critical economic issues, such as online loans,          currently prevalent in Indonesia, especially for Gen-Z, who find it challenging to manage their finances. Many individuals in this generation struggle to track their spending,            limit their finances, and achieve long-term goals (Goals). This problem is exacerbated by irregular income patterns common among freelancers and young professionals. Our project          is here to create a solution to the issue at hand.</p>
 ## Purpose
 Brofin aims to help Gen Z and Millenials manage finances effectively. Our application is specifically designed to cater to the financial needs of adolescents and adults. By making        budgeting easier and financial management more accessible, we seek to empower young people to attain financial independence, increase economic stability, and reduce financial             stress.</p>
-## Key Feature
+## Key Features
 - Budgeting Feature: The app utilizes the 50-30-20 budgeting rule, a financial planning principle that divides income into three spending categories: 50% for needs, 30% for wants, and      20% for savings. This feature helps users understand and prioritize their financial obligations, promoting disciplined financial behavior.  
 - Machine Learning Features:  
   1. Predictive Model: A machine learning model has been developed to predict the price of a user's dream home, taking into account inflation and their target purchase timeframe. The          system also calculates affordable mortgage payments and provides recommendations for realistic home prices and suitable mortgage products.
   2. Recommendation System: Another machine learning model is implemented to recommend products aligned with the user's budget and chosen categories.
+## Cloud Architecture
+<div align="center">
+  <img src="https://github.com/CP-Finance-Goals/.github/blob/main/profile/Architectures.png" alt="Arsitektur" width="500">
+</div>
+
+
 ## Documentations
 | Learning Path    | Link                                                                        |
 |:-----------------|:---------------------------------------------------------------------------:|

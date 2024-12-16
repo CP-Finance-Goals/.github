@@ -33,5 +33,5 @@ Brofin aims to help Gen Z and Millenials manage finances effectively. Our applic
 | Silvi Kusuma Wardhani Gunawan  | M813B4KX4153    | Machine Learning   | [Linkedin](linkedin.com/in/silvi-kusuma-wardhani-gunawan), [Github](https://github.com/Silvikusuma04)        |
 | Muhamad Prianda                | C318B4KY2650    | Cloud Computing    | [Linkedin](linkedin.com/in/muhamad-prianda-749191253), [Github](https://github.com/MUHAMADPRIANDA)           |
 | Mukhlis Gia Tegar              | C318B4KY3149    | Cloud Computing    | [Linkedin](linkedin.com/in/mukhlis-gia-tegar-435027295), [Github](https://github.com/MkhGT)                  |
-| Muhammad Sammy Yudistira       | A133B4KY3082    | Mobile Developer   | [Linkedin](linkedin.com/in/muhammad-sammy-yudistira-7a8a54326), [Github](https://github.com/MSammyYudistira) |
+| Muhammad Sammy Yudistira       | A133B4KY3082    | Mobile Developer   | [Linkedin](linkedin.com/in/sammy-yudistira), [Github](https://github.com/MSammyYudistira) |
 | Muhamad Muslih                 | A318B4KY2646    | Mobile Developer   | [Linkedin](linkedin.com/in/muhamad-muslih-a92120275), [Github](https://github.com/papermintx)                |

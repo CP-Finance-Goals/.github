@@ -14,7 +14,7 @@ Brofin aims to help Gen Z and Millenials manage finances effectively. Our applic
   2. Recommendation System: Another machine learning model is implemented to recommend products aligned with the user's budget and chosen categories.
 ## Cloud Architecture
 <div align="center">
-  <img src="https://github.com/CP-Finance-Goals/.github/blob/main/profile/Architectures.png" alt="Arsitektur" width="500">
+  <img src="https://github.com/CP-Finance-Goals/.github/blob/main/profile/Cloud%20Arch.png" alt="Arsitektur" width="500">
 </div>
 
 
